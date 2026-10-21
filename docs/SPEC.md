@@ -64,11 +64,11 @@ Hardware **(proposed)**: an arcade button or microswitch inside a hollowed-out c
 
 The design isn't decided yet. Leo will try several and pick during the experiment phase:
 
-| Design | Idea | Reference |
-| --- | --- | --- |
-| Bones | A creature made of bones, in the spirit of Švankmajer's stop-motion. | _to add_ |
-| Busó | Carved wooden mask, horns, shaggy sheepskin, human hands. From Leo's culture, so it could be a personal connection. | `docs/references/buso.png` |
-| _more to come_ | | |
+| Design | Idea | Versions | Reference |
+| --- | --- | --- | --- |
+| Bones | A creature made of bones, in the spirit of Švankmajer's stop-motion. | **Four arms:** two solve the cube, one smokes a cigarette, one scratches its head and does general gestures. | _to add_ |
+| Busó | Carved wooden mask, horns, shaggy sheepskin, human hands. From Leo's culture, so it could be a personal connection. | _to add_ | `docs/references/buso.png` |
+| _more to come_ | | | |
 
 ## 5. The cube
 
@@ -161,6 +161,7 @@ Newest first. One entry per session or decision: what changed, what was learned,
 
 - Viewpoint decided: the user sits on a chair at a desk in a dark room, in first person.
 - Reference screenshots gathered (Inscryption, Lillemon, Busó) and notes written (§6).
+- Bones creature version idea: four arms (two solving, one smoking, one scratching its head and gesturing).
 - Creature designs to test: bones (Švankmajer) and Busó (from Leo's culture). Nothing chosen yet (§4.1).
 - Idea to test: the dark room breaking into a Lillemon-style collage as the unexpected ending (§6.3).
 - Pitch presented. It was hard to explain the idea clearly. Teacher feedback: "waiting for an outcome that you do not expect" is a good starting point, and the creature is a personal approach, but many questions stay open (§2.1). They're curious to see it evolve and think it could succeed as a weird "WTF" experience.
